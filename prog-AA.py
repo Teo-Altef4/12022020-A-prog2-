@@ -6,7 +6,7 @@ def AMENO- ():
     a5 = "Latire, Latiremo"
     a6 = "Omenari Imperavi"
     a7 = "Diemere"
-    a8 = "Matire, Matiremo"
+    a8 = "Matiro, Matiremo"
     a9 = "Dore"
     #za waldo
 
@@ -16,4 +16,8 @@ def DORIME- ()
         
         
         
+<<<<<<< HEAD
 #ooga booga        
+=======
+        
+>>>>>>> refs/remotes/origin/master
