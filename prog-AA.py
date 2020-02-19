@@ -21,3 +21,4 @@ def DORIME- ()
 =======
         
 >>>>>>> refs/remotes/origin/master
+ ######i la vamo s nóooooosss
